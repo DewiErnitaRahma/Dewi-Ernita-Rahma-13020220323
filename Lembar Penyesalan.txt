@@ -1,0 +1,8 @@
+Nama : Dewi Ernita Rahma
+NIM  : 13020220323
+
+Lembar Penyesalan
+1. Saya Menyesal tidak memperhatikan dengan baik materi yang diajarkan Kakak-kakak asisten selama praktikum berjalan
+2. Saya menyesal tidak belajar dengan giat
+3. Saya menyesal tidak tahu cara membuat program yang dapat berjalan dengan baik di GUI
+4. Saya menyesal tidak tahu cara membuat program berbasis web
